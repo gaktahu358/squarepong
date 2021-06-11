@@ -1,0 +1,10 @@
+<convert2exe>
+    <uacLevel>asInvoker</uacLevel>
+    <launcher>C:\Users\HP\AppData\Local\Adersoft\Vbsedit\x64\html64c_processes.exe</launcher>
+    <folder></folder>
+    <dependencies>
+        <dependency>index.html</dependency>
+        <dependency>lib\phaser.js</dependency>
+        <dependency>main.js</dependency>
+    </dependencies>
+</convert2exe>
